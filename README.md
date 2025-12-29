@@ -8,9 +8,14 @@ The paper for the base model can be read [here](https://jurnal.tazkia.ac.id/inde
 2.) The app will classify applicants to estimate the range of financing they will get\
 3.) If both party agreed with the result, the applications can be proceed further
 
-# Demo
-<video src="https://youtu.be/qxO9QuuVjv8" controls width="600"></video>
-<iframe width="560" height="315" src="https://youtu.be/qxO9QuuVjv8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+# Demo 📺
+⭐️ Main feature:\
+[![Demo Video](https://img.youtube.com/vi/qxO9QuuVjv8/0.jpg)](https://youtu.be/qxO9QuuVjv8)
+
+✨ Full Features:
+[here](https://drive.google.com/file/d/1UXetet4Mwb18iBacT3VPosSZWXM11kO1/view?usp=sharing)
+
+
 
 
 
